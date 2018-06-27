@@ -1,0 +1,10 @@
+{
+  "orgName": "Manage Package - Dev Org",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "ChatterEnabled"
+    ]
+  }
+}
